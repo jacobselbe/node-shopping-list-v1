@@ -95,3 +95,7 @@ module.exports = {
   ShoppingList: createShoppingList(),
   Recipes: createRecipes()
 }
+
+function test() {
+  console.log('test');
+}
